@@ -1,5 +1,5 @@
 # AirQEsp32PmS5003
-Codigo para configurar el sensor PMS5003 en el chip Esp32
+Codigo para configurar el sensor PMS5003 en el chip Esp32 y enviar datos a la plataforma Ubidots
 
 NOTA: En caso de que el sensor falle, o no sea leído este prototipo enviara datos predefinidos hacia la plataforma de Ubidots.
 
