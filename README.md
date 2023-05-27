@@ -2,7 +2,9 @@
 Codigo para configurar el sensor PMS5003 en el chip Esp32
 
 NOTA: En caso de que el sensor falle, o no sea leído este prototipo enviara datos predefinidos hacia la plataforma de Ubidots.
+
 NOTA: Para programar el chip ESP32 o usarlo cuando se encuentra conectado vía USB se recomienda NO tener conectado el chip a otra fuente de alimentación.
+
 NOTA: Antes de conectar el ESP32 al equipo revisa los puertos incluidos por defecto (Tools > Port), para este prototipo aparecía COM1 pero al conectar el chip aparecía COM4, el cual debía ser seleccionado para poder trabajar con el chip.
 
 El prototipo contiene 3 elementos esenciales:
